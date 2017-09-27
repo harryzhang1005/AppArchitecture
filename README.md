@@ -124,8 +124,8 @@ Here we have two options:
 ![VIPER Design](4-VIPER.png)
 
 ## MV(X) vs. VIPER
-* Model (data interaction) logic shifted into the Interactor with the Entities as dumb data structures.
-* Only the UI representation duties of the Controller/Presenter/ViewModel moved into the Presenter, but not the data altering capabilities.
-* VIPER explicitly addressed navigation responsibility by the Router
+* __Model__ (data interaction) logic shifted into the __Interactor__ with the __Entities__ as dumb data structures.
+* Only the UI representation duties of the __Controller/Presenter/ViewModel__ moved into the __Presenter__, but not the data altering capabilities.
+* __VIPER__ explicitly addressed navigation responsibility by the __Router__
 
 Happy coding :+1:  :sparkles:
