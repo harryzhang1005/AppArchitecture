@@ -3,12 +3,15 @@
 ## Why care about architecture?
 
 1. Distribution
+   
    The best way to defeat complexity is to divide responsibilities among multiple entities following the single responsibility principle.
    
 2. Testability
+   
    The tests saved us from finding issues in runtime, which might happen when an app is on a user's device and the fix takes time to reach the user.
    
 3. Ease of use
+   
    The less code you have, the less bugs you have.
 
 ## MV(X)
